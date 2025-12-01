@@ -7,28 +7,28 @@ Designed with a pastel UI for a calming and aesthetic experience. 💗✨
 
 🌼 Features
 
-Add, edit, delete expenses
+. Add, edit, delete expenses
 
-Category-wise spending summary
+. Category-wise spending summary
 
-Beautiful pastel UI
+. Beautiful pastel UI
 
-Pie-chart visualization
+. Pie-chart visualization
 
-Date filters
+. Date filters
 
-Search bar
+. Search bar
 
-CSV export
+. CSV export
 
-Auto database storage using SQLite
+. Auto database storage using SQLite
 
 🧁 Technologies Used
 
-Python 3
+. Python 3
 
-Tkinter
+. Tkinter
 
-SQLite3
+. SQLite3
 
-CSV export
+. CSV export
